@@ -25,4 +25,4 @@ def div(x,y):
         return x/y 
 #sqaure fn imolement
 def square(x):
-    pass
+    return x*x
